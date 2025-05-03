@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor Onyango aka vickth3g</h1>
+<h1 align="center">Hi 👋, I'm Victor Onyango</h1>
 <h3 align="center">A newbie in frontend developer looking to get into full-stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicktheg&label=Profile%20views&color=0e75b6&style=flat" alt="vicktheg" /> </p>
